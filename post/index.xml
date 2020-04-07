@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on I am thinking ...</title>
+    <link>https://ranfengzhang.github.io/post/</link>
+    <description>Recent content in Posts on I am thinking ...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>All rights reserved - 2018</copyright>
+    <lastBuildDate>Tue, 07 Apr 2020 17:45:05 +0800</lastBuildDate>
+    
+	<atom:link href="https://ranfengzhang.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>hugo搭建个人博客</title>
+      <link>https://ranfengzhang.github.io/2020/04/07/hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Tue, 07 Apr 2020 17:45:05 +0800</pubDate>
+      
+      <guid>https://ranfengzhang.github.io/2020/04/07/hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <description>1、翻墙
+通过v2rayN进行翻墙
+HTTP代理——开启全局模式
+2、安装scoop
+2.1 打开powershell
+Set-ExecutionPolicy RemoteSigned -scope CurrentUser 选择A
+2.2 执行安装命令
+iex (new-object net.webclient).downloadstring(&amp;#39;https://get.scoop.sh&amp;#39;) 2.3 检测是否安装成功
+scoop help 3、安装hugo
+4、编写博客</description>
+    </item>
+    
+  </channel>
+</rss>
